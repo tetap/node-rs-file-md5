@@ -1,0 +1,18 @@
+{
+  "name": "file-md5-android-arm-eabi",
+  "version": "0.0.0",
+  "os": [
+    "android"
+  ],
+  "cpu": [
+    "arm"
+  ],
+  "main": "file-md5.android-arm-eabi.node",
+  "files": [
+    "file-md5.android-arm-eabi.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}

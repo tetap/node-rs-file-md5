@@ -1,0 +1,18 @@
+{
+  "name": "file-md5-linux-arm-gnueabihf",
+  "version": "0.0.0",
+  "os": [
+    "linux"
+  ],
+  "cpu": [
+    "arm"
+  ],
+  "main": "file-md5.linux-arm-gnueabihf.node",
+  "files": [
+    "file-md5.linux-arm-gnueabihf.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}
